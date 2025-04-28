@@ -3,7 +3,7 @@
 A simple HTML+MongoDB+NodeJS project to display Solar System and it's planets.
 
 ---
-## Requirements
+## Requirementss
 
 For development, you will only need Node.js and NPM installed in your environement.
 
